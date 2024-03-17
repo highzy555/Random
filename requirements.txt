@@ -1,1 +1,9 @@
+aiogram==2.23.1
 flask
+nextcord
+rgbprint
+requests
+colorama
+httpx
+bs4
+user_agent
